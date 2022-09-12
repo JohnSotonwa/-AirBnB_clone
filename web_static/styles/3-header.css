@@ -6,7 +6,7 @@ width: 100%;
 border-bottom-style: solid;
 border-bottom-width: 1px;
 border-bottom-color: #CCCCCC;
-position: fixed;
+position: relative;
 background-image: url("../images/logo.png");
 background-repeat: no-repeat;
 background-position-x: 20px;
